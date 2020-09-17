@@ -1,8 +1,9 @@
-package assignment_1;
+package day_2;
 
-public class Question1 {
+public class Question3 {
 
 	public static void main(String[] args) {
+		
 		System.out.println("1");
 		System.out.println("2");
 		System.out.println("3");
@@ -13,7 +14,6 @@ public class Question1 {
 		System.out.println("8");
 		System.out.println("9");
 		System.out.println("10");
-		//just to try
 
 	}
 
