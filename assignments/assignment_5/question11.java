@@ -4,6 +4,7 @@ public class question11 {
 
 	public static void main(String[] args) {
 		int rows = 4;
+		
 		for(int i=4;i>=1;i--) {				
 			for(int k = 1; k <= rows - i; k++) {
                 System.out.print("  ");
