@@ -4,9 +4,7 @@ public class question_7 {
 
 	public static void main(String[] args) {
 
-		isPalindrome(1001001);
-		
-
+		isPalindrome(1001001);	
 	}
 
 	public static void isPalindrome(int n) {

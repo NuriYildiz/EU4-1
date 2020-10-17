@@ -17,5 +17,4 @@ public class question_9 {
 	      return x;
 	    }
 	  }
-
 }
