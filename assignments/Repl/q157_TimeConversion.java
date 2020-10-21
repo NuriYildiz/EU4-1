@@ -14,6 +14,7 @@ public class q157_TimeConversion {
 		
 		Scanner scan = new Scanner(System.in);
 		timeConversion(scan.nextLine());
+		scan.close();
 	}
 		  
 	public static void timeConversion(String s) {
@@ -33,5 +34,6 @@ public class q157_TimeConversion {
 				 
 				 
 	}
+	
 
 }
